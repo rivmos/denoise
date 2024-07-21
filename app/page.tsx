@@ -32,75 +32,73 @@ export default function Home() {
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
-    <a
-      href="https://denoise.com/docs"
-      className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <h2 className="mb-3 text-2xl font-semibold">
-        Discover Denoise{" "}
-        <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-          -&gt;
-        </span>
-      </h2>
-      <p className="m-0 max-w-[30ch] text-sm opacity-50">
-        Dive deep into our AI capabilities and explore the groundbreaking features of Denoise.
-      </p>
-    </a>
+        <a
+          href="#"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className="mb-3 text-2xl font-semibold">
+            Latest AI Trends{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+            Stay updated with the cutting-edge developments in AI technology.
+          </p>
+        </a>
+        <a
+          href="#"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className="mb-3 text-2xl font-semibold">
+            Expert Insights{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+            Gain valuable insights from industry leaders and AI pioneers.
+          </p>
+        </a>
 
-    <a
-      href="https://denoise.com/learn"
-      className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <h2 className="mb-3 text-2xl font-semibold">
-        Learn with Denoise{" "}
-        <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-          -&gt;
-        </span>
-      </h2>
-      <p className="m-0 max-w-[30ch] text-sm opacity-50">
-        Engage with our interactive courses and master AI techniques with real-world applications.
-      </p>
-    </a>
+        <a
+          href="#"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className="mb-3 text-2xl font-semibold">
+            Tutorials & Guides{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+            Access step-by-step tutorials and comprehensive guides on AI.
+          </p>
+        </a>
 
-    <a
-      href="https://denoise.com/templates"
-      className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <h2 className="mb-3 text-2xl font-semibold">
-        AI Templates{" "}
-        <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-          -&gt;
-        </span>
-      </h2>
-      <p className="m-0 max-w-[30ch] text-sm opacity-50">
-        Discover pre-built AI templates to jumpstart your projects with Denoise.
-      </p>
-    </a>
-
-    <a
-      href="https://denoise.com/deploy"
-      className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <h2 className="mb-3 text-2xl font-semibold">
-        Deploy with Denoise{" "}
-        <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-          -&gt;
-        </span>
-      </h2>
-      <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-        Seamlessly deploy your AI models and solutions with Denoise’s robust platform.
-      </p>
-    </a>
-</div>
-
+        <a
+          href="#"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className="mb-3 text-2xl font-semibold">
+            Community & Events{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+            Connect with other AI enthusiasts and join exclusive events.
+          </p>
+        </a>
+      </div>
     </main>
   );
 }
